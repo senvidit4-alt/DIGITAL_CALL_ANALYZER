@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+
+# Secrets
+.env
+secret_key.txt
+
+# Audio files (Large / Temporary)
+*.wav
+*.mp4
+temp_audio.wav
+
+# ML Models
+model.pkl
+
+# IDEs
+.vscode/
+.idea/
+.cursor/
